@@ -43,4 +43,4 @@ The data is a sample dataset created to simulate real-world healthcare operation
 
 ## Dashboard Preview
 
-![Dashboard Preview](URL_to_your_dashboard_preview_image.png)
+![Dashboard Preview](https://github.com/tirth1266/HealthPulse-Hospital-Analysis/blob/main/Sneak%20Peek%20of%20Dashboard.png)
