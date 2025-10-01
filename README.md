@@ -8,7 +8,7 @@ This project provides a comprehensive analysis of key performance indicators (KP
 
 The dashboard was built using the following tools and technologies:
 
-* 📊 **Power BI Desktop:** Main data visualization platform used for report creation.
+* 📊 **Power BI Desktop:** Main data visualisation platform used for report creation.
 * 🧰 **Power Query:** Used for data transformation, cleaning, and preparation.
 * 🧠 **DAX (Data Analysis Expressions):** Implemented for creating custom measures and calculated columns to drive complex analytics.
 * 📈 **Data Modelling:** A logical schema was established to enable cross-filtering and aggregation across various data points.
@@ -28,7 +28,7 @@ The data is a sample dataset created to simulate real-world healthcare operation
 
 * **Objective:** To provide a comprehensive performance overview of the healthcare facility's operations and patient care quality.
 
-* **Key Visualizations:** The dashboard tracks critical metrics, including:
+* **Key Visualisations:** The dashboard tracks critical metrics, including:
     * Patient Volume Over Time and by Department
     * Average Wait Times and Consultation Durations
     * Revenue by Department and Insurance Provider
@@ -41,6 +41,6 @@ The data is a sample dataset created to simulate real-world healthcare operation
 
 ---
 
-## Dashboard Preview
+## 🫣 Dashboard Preview
 
 ![Dashboard Preview](https://github.com/tirth1266/HealthPulse-Hospital-Analysis/blob/main/Sneak%20Peek%20of%20Dashboard.png)
